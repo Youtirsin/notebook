@@ -12,6 +12,4 @@ function showCards(){
         $("#content").append($card);
     }
 };
-function randNum(start,end){
-    return parseInt(Math.random()*(end-start)+start);
-};
+

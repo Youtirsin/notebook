@@ -3,15 +3,7 @@ body,html{
     margin: 0;
     padding: 0;
 }
-#search{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin:20px;
-}
-#search>input[type="text"]{
-    width:400px;
-}
+
 #content{
     margin-top: 20px;
     width:100%;
